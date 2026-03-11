@@ -1,0 +1,21 @@
+============================================================
+TITANIC DATA ANALYSIS - STATISTICAL SUMMARY
+============================================================
+
+Dataset Shape: (775, 14)
+Total Passengers: 775
+Survival Rate: 41.3%
+
+SURVIVAL BY CLASS:
+  Class 1: 63.3%
+  Class 2: 50.6%
+  Class 3: 25.9%
+
+SURVIVAL BY SEX:
+  Female: 74.0%
+  Male: 21.5%
+
+AGE STATISTICS:
+  Mean: 29.6
+  Median: 28.0
+  Range: 0.4 - 80.0
