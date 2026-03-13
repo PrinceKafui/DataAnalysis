@@ -1,7 +1,7 @@
 # Titanic Passenger Data Analysis
 
 ## Overview
-As a data enthusiast and software engineer, I created this comprehensive data analysis project to deepen my understanding of statistical analysis and data visualization using Python. This project analyzes the famous Titanic dataset to uncover patterns in passenger survival based on factors like age, class, gender, and fare.
+As a data enthusiast and software developer, I created this comprehensive data analysis project to deepen my understanding of statistical analysis and data visualization using Python. This project analyzes the famous Titanic dataset to uncover patterns in passenger survival based on factors like age, class, gender, and fare.
 
 The software performs a complete data analysis pipeline including:
 - Data loading and exploration
@@ -10,7 +10,7 @@ The software performs a complete data analysis pipeline including:
 - Multiple data visualizations
 - Insight generation and reporting
 
-[Software Demo Video](https://youtu.be/your-titanic-analysis-video-link)
+[Software Demo Video]()
 
 ## Data Source
 The analysis uses the Titanic dataset from Seaborn's built-in datasets, which contains information about 891 passengers including:

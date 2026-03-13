@@ -1,7 +1,7 @@
 """
 Titanic Passenger Data Analysis
 Author: Prince Amexo
-Date: 2024
+Date: March 2026
 Description: Comprehensive analysis of Titanic passenger data including
 data cleaning, statistical analysis, and visualizations.
 """
