@@ -10,7 +10,7 @@ The software performs a complete data analysis pipeline including:
 - Multiple data visualizations
 - Insight generation and reporting
 
-[Software Demo Video]()
+[Software Demo Video](https://youtu.be/FTyqei14nQY)
 
 ## Data Source
 The analysis uses the Titanic dataset from Seaborn's built-in datasets, which contains information about 891 passengers including:
